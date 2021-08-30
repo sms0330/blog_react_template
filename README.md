@@ -15,4 +15,4 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE.MD](https://github.com/sms0330/blog_client/blob/master/LICENSE) file for details.
